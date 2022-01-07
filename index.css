@@ -1,0 +1,51 @@
+.bg-container {
+    background-image: linear-gradient(to left, #dac0ff, #f2ebfe);
+    padding: 18px;
+    font-family: Roboto;
+}
+
+.heading {
+    color: #690cb0;
+    font-weight: 700;
+}
+
+.para {
+    font-size: 20px;
+    color: #3e4c59;
+}
+
+.image {
+    height: 40px;
+    width: 50px;
+    margin-top: 6px;
+}
+
+.timer-second {
+    color: #3e4c59;
+    font-size: 34px;
+}
+
+.timer-text {
+    color: #3e4c59;
+    font-size: 16px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.container-1 {
+    background-color: #f2ebfe;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #9aa5b1;
+    border-width: 2px;
+    padding: 20px;
+}
+
+.submit {
+    background-color: #690cb0;
+    color: #ffffff;
+    border-radius: 6px;
+    border-width: 0px;
+    margin-right: 26px;
+    height: 36px;
+}
